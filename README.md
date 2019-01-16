@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub>](https://sinchang.me)<br />[🚇](#infra-sinchang "Infrastructure (Hosting, Build-Tools, etc)") [⚠️](https://github.com/sinchang/ama/commits?author=sinchang "Tests") [💻](https://github.com/sinchang/ama/commits?author=sinchang "Code") [🎨](#design-sinchang "Design") [🔧](#tool-sinchang "Tools") [🤔](#ideas-sinchang "Ideas, Planning, & Feedback") [📢](#talk-sinchang "Talks") |
+| [<img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub>](https://sinchang.me)<br />[🚇](#infra-sinchang "Infrastructure (Hosting, Build-Tools, etc)") [⚠️](https://github.com/sinchang/ama/commits?author=sinchang "Tests") [💻](https://github.com/sinchang/ama/commits?author=sinchang "Code") [🎨](#design-sinchang "Design") [🔧](#tool-sinchang "Tools") [🤔](#ideas-sinchang "Ideas, Planning, & Feedback") [📢](#talk-sinchang "Talks") [👀](#review-sinchang "Reviewed Pull Requests") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
