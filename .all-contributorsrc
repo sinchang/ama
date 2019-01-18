@@ -18,7 +18,8 @@
         "infra",
         "test",
         "code",
-        "doc"
+        "doc",
+        "question"
       ]
     }
   ],
