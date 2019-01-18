@@ -19,7 +19,8 @@
         "test",
         "code",
         "doc",
-        "question"
+        "question",
+        "review"
       ]
     }
   ],
