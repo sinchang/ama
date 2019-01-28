@@ -27,7 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/all-contri
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub>](https://sinchang.me)<br />[💻](https://github.com/sinchang/ama/commits?author=sinchang "Code") [📖](https://github.com/sinchang/ama/commits?author=sinchang "Documentation") |
+| [<img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt="Jeff Wen"/><br /><sub><b>Jeff Wen</b></sub>](https://sinchang.me)<br />[💻](https://github.com/sinchang/ama/commits?author=sinchang "Code") [📖](https://github.com/sinchang/ama/commits?author=sinchang "Documentation") [👀](#review-sinchang "Reviewed Pull Requests") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
